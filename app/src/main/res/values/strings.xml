@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Navy Aircraft Named after Veteran</string>
+    <string name="article_subtitle">Aircraft Carrier</string>
+    <string name="article_text"> Doris Miller was working as a mess attendant on the battleship West
+        Virginia the morning of Dec. 7, 1941, when the Japanese attacked Pearl Harbor. An alarm
+        sounded, and as the ship drew heavy fire, Mr. Miller raced to assist the West Virginia\’s
+        fatally wounded commanding officer. He also fired a machine gun against enemy planes. \n
+        For his bravery and \“distinguished devotion to duty\” that day, Mr. Miller was awarded the
+        prestigious Navy Cross, the second-highest military decoration, in 1942, making him the
+        first African-American to receive the medal. \n
+        Now, 78 years after the attack, the United States Navy is set to recognize the sailor with
+        another honor on Monday, when it is expected to name a CVN-81 aircraft carrier after Mr.
+        Miller, The Honolulu Star-Advertiser reported. \n
+        For more information visit https://www.nytimes.com/2020/01/18/us/doris-miller-aircraft-carrier.html</string>
+</resources>
